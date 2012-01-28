@@ -1,0 +1,13 @@
+/**
+ * Module that adds jQuery as a Magento module including the noConflict() code neccessary to coexist with Prototype
+ *
+ * PHP version 5
+ *
+ * @category   Datadrivendesign
+ * @package    jquery
+ * @author     Aron Kerr <aronkerr@gmail.com>
+ * @copyright  2012 Data Driven Design
+ * @license    http://opensource.org/licenses/osl-3.0.php  OSL License 3.0
+ * @version    1.7.1
+ * @link       https://github.com/aronkerr/magento---jquery
+ */

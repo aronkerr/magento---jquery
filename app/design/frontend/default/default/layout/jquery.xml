@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout version="1.7.1">
+	<default>
+		<reference name="head">
+			<action method="addJs"><script>datadrivendesign/jquery-1.7.1.min.js</script></action>
+			<action method="addJs"><script>datadrivendesign/jquery.noConflict.js</script></action>
+		</reference>
+	</default>
+</layout>

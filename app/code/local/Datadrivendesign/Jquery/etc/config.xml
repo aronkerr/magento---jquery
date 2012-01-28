@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<modules>
+		<Datadrivendesign_Jquery>
+			<version>1.7.1</version>
+		</Datadrivendesign_Jquery>
+	</modules>
+	<frontend>
+		<layout>
+			<updates>
+				<jquery>
+					<file>jquery.xml</file>
+				</jquery>
+			</updates>
+		</layout>
+	</frontend>
+</config>
